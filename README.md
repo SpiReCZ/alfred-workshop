@@ -31,3 +31,9 @@ Poté nainstalujete závislosti:
 ```
 pip install -r "requirements.txt"
 ```
+
+Pokud chcete přejmenovat .env soubor, ještě udělejte:
+
+```
+mv env_rename .env
+```
