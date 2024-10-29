@@ -1,0 +1,5 @@
+.env
+recordings/
+audio_responses/
+whisper.cpp
+venv/
